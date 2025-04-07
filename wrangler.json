@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "teraboxbot",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "888a64fd-2f67-4082-8963-ac83c5015732",
+      "database_name": "userdata"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
